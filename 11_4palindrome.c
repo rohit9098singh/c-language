@@ -19,6 +19,7 @@ void main()
         
 
     } while (num != 0);
+    //hreloo
     printf("%d",sum); 
     printf("reverse = %d\n", reverse);
     if(reverse==n){
